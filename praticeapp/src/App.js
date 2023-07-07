@@ -17,7 +17,8 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <h1>Task: Add three Card elements</h1>
+      <h2>Task: Tell us your name</h2>
+      <h3>My name's Paul Oluwapelumi Ehigie, and i will be a great force to reckon with in this planet earth.</h3>
     </div>
   );
 }
